@@ -1,0 +1,8 @@
+sudo apt docker install docker.io
+sudo docker search lampp
+sudo docker pull shelleyma/lampp2
+sudo docker run -d -p 7070:80 shelleyma/lampp2
+
+
+
+seach in browser http://localhost:7070
