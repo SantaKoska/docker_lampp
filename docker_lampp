@@ -5,7 +5,7 @@ sudo docker run -d -p 7070:80 shelleyma/lampp2
 
 
 
-seach in browser http://localhost:7070
+//seach in browser http://localhost:7070
 
 PAUSE 
-sudo docker pause [container id of the shelleyma/lampp when we do sudo docker ps ]
+sudo docker pause [//container id of the shelleyma/lampp when we do sudo docker ps ]
